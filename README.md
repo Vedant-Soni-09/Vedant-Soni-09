@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedant Soni</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Tech Learner from India</h3>
 # 💫 About Me:
-🔭 I’m currently working on e-commerce Wordpress<br><br>🌱 I’m currently learning JavaScript, PHP,<br><br>👯 I’m looking to collaborate on e-commerce Wordpress<br><br>💬 Ask me about Front-end, Databases, Machine Learning, Artificial Intelligence<br><br>📫 How to reach me rishabhsoni3615@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1U1bd_gnwiFFEW4YbIgDdCtfnVqs7_-6V/view?usp=drive_link
-
+🔭 I’m currently working on data related projects<br><br>🌱 I’m currently learning JavaScript, PHP,<br><br>👯 I'm looking for guidance and support<br><br>💬 Ask me about Front-end, Databases, Machine Learning, Artificial Intelligence<br><br>📫 How to reach me rishabhsoni3615@gmail.com<br><br>📄Fresher out to gain knowledge
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vedant.soni.x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant-soni-7aa294200) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user:22240072) 
