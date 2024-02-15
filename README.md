@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedant Soni</h1>
-<h3 align="center">A passionate Tech Learner from India</h3>
+<h3 align="center">A passionate AI/ML Engineer from India</h3>
 # 💫 About Me:
-🔭 I’m currently working on data related projects<br><br>🌱 I’m currently learning JavaScript, PHP,<br><br>👯 I'm looking for guidance and support<br><br>💬 Ask me about Front-end, Databases, Machine Learning, Artificial Intelligence<br><br>📫 How to reach me rishabhsoni3615@gmail.com<br><br>📄Fresher out to gain knowledge
+🔭 I’m currently working on Generative AI related projects<br><br>🌱 I’m currently learning Prompt Engineering, Generative AI,<br><br>👯 I'm looking for guidance and support<br><br>💬 Ask me about Google Gemini, GPT, Natural Language Processing, Machine Learning, Artificial Intelligence<br><br>📫 How to reach me rishabhsoni3615@gmail.com<br><br>📄Fresher out to gain knowledge
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vedant.soni.x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant-soni-7aa294200) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user:22240072) 
